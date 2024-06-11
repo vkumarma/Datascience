@@ -1,1 +1,1 @@
-# Datascience from Scratch 
+# Datascience From Scratch 
